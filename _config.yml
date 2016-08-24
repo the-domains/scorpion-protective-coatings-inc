@@ -1,4 +1,3 @@
-layout_spectrum: 0.7503937704022974
 typography_spectrum: 0.6358114944305271
 color:
   brandStrength: 0.7385454198811203
@@ -6,9 +5,11 @@ color:
   saturation: 0.8556259088218212
   rhythmicContrast: 0.8700037228409201
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#303030'
+    - '#F7F7F7'
+    - '#9CC895'
+    - '#D25326'
+    - '#08B2E3'
+layout_spectrum: 0.7503937704022974
 name: 'Scorpion Protective Coatings, Inc.'
+title: Test
